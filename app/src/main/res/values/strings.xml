@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CircleTap</string>
+    <string name="title">Tap-Tap!</string>
+    <string name="last">Last</string>
+    <string name="best">Best</string>
+    <string name="play">P L A Y !</string>
+    <string name="rateus">RATE US</string>
+</resources>
